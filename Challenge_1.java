@@ -18,7 +18,7 @@ public class Challenge_1 {
             ██████╔╝███████╗███████╗███████║╚███╔███╔╝██║  ██║██║  ██║███████╗
             ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 
-            Desafio 1 de Codember noviembre 2024 v1.0
+            Desafio 1 de Codember 2024 v1.0
             """;
         
         System.out.println(banner);
