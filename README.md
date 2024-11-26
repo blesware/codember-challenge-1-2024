@@ -6,7 +6,8 @@ Estamos en problemas. La IA ΩMEGA está descontrolada. Por suerte, he conseguid
 
 Te voy a dar una lista de números y, al lado, los movimientos que debes hacer en estos números. Imagina los candados numéricos esos que van con combinaciones.
 
-![Imagen de candado](photo.jpg)
+<img src="photo.jpg" alt="Imagen de candado" width="300">
+
 
 El número de la izquierda es la combinación inicial y las cadenas de texto de la derecha son los movimientos que debes hacer.
 
